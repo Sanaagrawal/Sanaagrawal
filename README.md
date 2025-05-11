@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanaagrawal
+- 👋 Hi, I’m @SamriddhiAgrawal
 - 👀 I’m interested in writing poetries and blogs
 - 🌱 I’m currently learning web designing 
 - 💞️ I’m looking to collaborate on ...
